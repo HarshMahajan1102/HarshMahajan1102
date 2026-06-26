@@ -1,0 +1,91 @@
+<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="600" rx="16" fill="#0d1117"/>
+
+  <!-- Title Bar -->
+  <rect width="900" height="40" rx="16" fill="#161b22"/>
+  <rect y="32" width="900" height="16" fill="#161b22"/>
+
+  <!-- Window Buttons -->
+  <circle cx="25" cy="24" r="8" fill="#ff5f56"/>
+  <circle cx="49" cy="24" r="8" fill="#ffbd2e"/>
+  <circle cx="73" cy="24" r="8" fill="#27c93f"/>
+
+  <!-- Title -->
+  <text x="450" y="30"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="18">
+    harsh@iit-indore
+  </text>
+
+  <!-- Terminal -->
+<!-- ASCII Art -->
+
+<text
+    x="30"
+    y="80"
+    fill="#58a6ff"
+    font-family="JetBrains Mono, Consolas, monospace"
+    font-size="17"
+    xml:space="preserve">
+
+    <tspan x="30" dy="0">██╗   ██╗  ███╗    ███╗   ██╗    ██╗   ██████╗   ██████╗     </tspan>
+    <tspan x="30" dy="22">██║   ██║  ████╗  ████║  ███║   ███║  ██╔═████╗  ╚════██╗   </tspan>
+    <tspan x="30" dy="22">████████║   ██╔█████╔██║  ╚██║   ╚██║  ██║██╔██║   █████╔╝   </tspan>
+    <tspan x="30" dy="22">██╔═══██║  ██║╚███╔╝██║   ██║    ██║  ████╔╝██║  ██╔═══╝    </tspan>
+    <tspan x="30" dy="22">██║   ██║  ██║ ╚══╝ ██║   ██║    ██║  ╚██████╔╝  ███████╗   </tspan>
+    <tspan x="30" dy="22">╚═╝  ╚═╝  ╚═╝      ╚═╝   ╚═╝    ╚═╝  ╚════╝    ╚═════╝</tspan>
+
+
+</text>
+
+
+  <!-- Prompt -->
+  <text x="30" y="215"
+        fill="#58a6ff"
+        font-family="JetBrains Mono, monospace"
+        font-size="22">
+    harsh@iit-indore
+  </text>
+
+  <text x="235" y="215"
+        fill="#ffffff"
+        font-family="JetBrains Mono, monospace"
+        font-size="22">
+    :~$
+  </text>
+
+  <text x="290" y="215"
+        fill="#3fb950"
+        font-family="JetBrains Mono, monospace"
+        font-size="22">
+    whoami
+  </text>
+
+  <!-- Output -->
+
+  <text x="30" y="250"
+        fill="#c9d1d9"
+        font-family="JetBrains Mono, monospace"
+        font-size="20">
+    👋 Harsh Mahajan
+  </text>
+
+  <text x="30" y="290"
+        fill="#58a6ff"
+        font-family="JetBrains Mono, monospace"
+        font-size="22">
+    harsh@iit-indore
+  </text>
+
+  <text x="235" y="290"
+        fill="#ffffff"
+        font-family="JetBrains Mono, monospace"
+        font-size="22">
+    :~$
+  </text>
+
+</svg>
