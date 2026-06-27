@@ -30,10 +30,45 @@
   </a>
 </p>
 
-
 <p align="center">
   <img src="assets/terminal.svg">
 </p>
 
-![JEE Advanced](https://img.shields.io/badge/JEE%20Advanced-AIR%20937-blue?style=for-the-badge)
 
+<p align="center">
+
+<a href="https://jeeadv.ac.in/">
+  <img src="https://img.shields.io/badge/JEE%20Advanced-AIR%20937-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+<a href="https://jeemain.nta.ac.in/">
+  <img src="https://img.shields.io/badge/JEE%20Mains-99.84%25-3B82F6?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</p>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshMahajan1102&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMahajan1102&layout=compact&theme=github_dark&hide_border=true&hide=html,css,jupyter%20notebook" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=HarshMahajan1102&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<h3 align="center">YOU CAN ALSO FIND ME HERE</h3>
+
+<p align="center">
+  <a href="https://www.duolingo.com/profile/HarshMahajan1102">
+    <img src="https://img.shields.io/badge/Learning_on-Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo"/>
+  </a>
+  <a href="https://monkeytype.com/profile/HarshMahajan1102">
+    <img src="https://img.shields.io/badge/Typing_on-Monkeytype-000000?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype"/>
+  </a>
+  <a href="https://open.spotify.com/user/sl8ib0m7p6oo1r409jwb9nnjj?si=3f696d7dce0d4108">
+    <img src="https://img.shields.io/badge/Listening_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+</p>
