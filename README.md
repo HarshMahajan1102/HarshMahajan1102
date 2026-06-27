@@ -50,13 +50,13 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshMahajan1102&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshMahajan1102&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12"/>
 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMahajan1102&layout=compact&theme=github_dark&hide_border=true&hide=html,css,jupyter%20notebook" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshMahajan1102&layout=compact&theme=github_dark&hide_border=true&hide=html,css,jupyter%20notebook&langs_count=8&border_radius=12"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=HarshMahajan1102&theme=github-dark-blue&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=HarshMahajan1102&theme=github-dark&hide_border=true&border_radius=12"/>
 </p>
 
 <h3 align="center">YOU CAN ALSO FIND ME HERE</h3>
