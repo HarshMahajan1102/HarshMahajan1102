@@ -20,6 +20,31 @@
   <rect width="900" height="40" rx="16" fill="#161b22"/>
   <rect y="32" width="900" height="16" fill="#161b22"/>
 
+  <!-- Top Border -->
+  <path
+    d="
+        M16 2
+        H884
+        A14 14 0 0 1 898 16
+        V56
+        M2 56
+        V16
+        A14 14 0 0 1 16 2
+    "
+    fill="none"
+    stroke="#8B949E"
+    stroke-width="2"
+    stroke-linejoin="round"
+    stroke-linecap="round"/>
+
+  <line
+    x1="2"
+    y1="47"
+    x2="898"
+    y2="47"
+    stroke="#30363D"
+    stroke-width="1"/>
+  
   <!-- Window Buttons -->
   <circle cx="25" cy="24" r="8" fill="#ff5f56"/>
   <circle cx="49" cy="24" r="8" fill="#ffbd2e"/>
