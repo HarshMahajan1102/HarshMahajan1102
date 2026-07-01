@@ -1,4 +1,4 @@
-<h1 align="right">Hi 👋, I'm Harsh Mahajan &emsp;&emsp;&ensp; &emsp; &ensp; <img src="https://komarev.com/ghpvc/?username=HarshMahajan1102&label=Profile%20Views&color=blue&style=for-the-badge"/></h1>
+<h1 align="center">Hi 👋, I'm Harsh Mahajan </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student+@+IIT+Indore;Competitive+Programmer;AI+%7C+ML+%7C+Software+Development;Building+Cool+Projects+One+Commit+at+a+Time" />
@@ -31,20 +31,16 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg">
+  <img src="assests/jee-advanced.svg">
 </p>
 
 
 <p align="center">
+  <img src="assests/jee-mains.svg">
+</p>
 
-<a href="https://jeeadv.ac.in/">
-  <img src="https://img.shields.io/badge/JEE%20Advanced-AIR%20937-22D3EE?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-<a href="https://jeemain.nta.ac.in/">
-  <img src="https://img.shields.io/badge/JEE%20Mains-99.84%25-3B82F6?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
+<p align="center">
+  <img src="assets/terminal.svg">
 </p>
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -58,6 +54,8 @@
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=HarshMahajan1102&theme=github-dark&hide_border=true&border_radius=12"/>
 </p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=HarshMahajan1102&label=Profile%20Views&color=blue&style=for-the-badge"/></p>
 
 <h3 align="center">YOU CAN ALSO FIND ME HERE</h3>
 
