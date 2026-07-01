@@ -31,12 +31,12 @@
 </p>
 
 <p align="center">
-  <img src="assests/jee-advanced.svg">
+  <img src="assets/jee-advanced.svg">
 </p>
 
 
 <p align="center">
-  <img src="assests/jee-mains.svg">
+  <img src="assets/jee-mains.svg">
 </p>
 
 <p align="center">
