@@ -1,0 +1,49 @@
+<svg width="720" height="56" viewBox="0 0 720 56" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="1" y="1" width="718" height="54"
+        rx="12"
+        fill="#0D1117"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <!-- Exam -->
+  <text x="22"
+        y="35"
+        fill="#C9D1D9"
+        font-family="JetBrains Mono, monospace"
+        font-size="18"
+        font-weight="600">
+JEE Mains 2024
+  </text>
+
+  <!-- Divider -->
+  <line x1="255" y1="14"
+        x2="255" y2="42"
+        stroke="#30363D"/>
+
+  <!-- AIR -->
+  <text x="275"
+        y="35"
+        fill="#3B82F6"
+        font-family="JetBrains Mono, monospace"
+        font-size="18"
+        font-weight="700">
+AIR 2504
+  </text>
+
+  <!-- Divider -->
+  <line x1="385" y1="14"
+        x2="385" y2="42"
+        stroke="#30363D"/>
+
+  <!-- Rank -->
+  <text x="405"
+        y="35"
+        fill="#8B949E"
+        font-family="JetBrains Mono, monospace"
+        font-size="17">
+Top 0.17% of 1.4M+ Candidates
+  </text>
+
+</svg>
