@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="Will-add-later">
+  <a href="https://leetcode.com/u/LMWP9X8GTI/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
@@ -41,13 +41,6 @@
 
 <p align="center">
   <img src="assets/terminal.svg">
-</p>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=HarshMahajan1102&theme=github-dark&hide_border=true&border_radius=12"/>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=HarshMahajan1102&label=Profile%20Views&color=blue&style=for-the-badge"/></p>
